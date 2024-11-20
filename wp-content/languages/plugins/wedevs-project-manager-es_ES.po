@@ -1,0 +1,1208 @@
+# Translation of Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-29 15:00:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release)\n"
+
+#: src/User/Controllers/User_Controller.php:160
+msgid "You have no permission to create/update user meta."
+msgstr "No tienes permisos para crear/actualizar metadatos de usuario."
+
+#: views/project-switch/project-switch.php:19
+msgid "to dismiss"
+msgstr "para descartar"
+
+#: views/project-switch/project-switch.php:15
+msgid " to select "
+msgstr " para seleccionar "
+
+#: views/project-switch/project-switch.php:11
+msgid " to navigate"
+msgstr " para navegar"
+
+#: src/My_Task/Controllers/MyTask_Controller.php:134
+msgid "Starting date is not valid. Please re-check your request."
+msgstr "La fecha de inicio no es válida. Vuelve a comprobar tu solicitud."
+
+#: core/Pro/Menu.php:48
+msgid "Modules"
+msgstr "Módulos"
+
+#: core/Pro/Menu.php:47 views/assets/js/pm.js:36
+msgid "Reports"
+msgstr "Informes"
+
+#: core/Promotions/Offers.php:55 core/Promotions/Offers.php:58
+#: core/Promotions/Offers.php:134
+msgid "%s"
+msgstr "%s"
+
+#: core/Promotions/Offers.php:52
+msgid "<strong>%s</strong>"
+msgstr "<strong>%s</strong>"
+
+#. translators: %1s: project title, %2s: project updated by name
+#: views/emails/html/update-project.php:78
+msgid "The project \"%1$s\" has been updated by %2$s"
+msgstr "El proyecto «%1$s» ha sido actualizado por %2$s"
+
+#: views/emails/html/new-task.php:7
+msgid "Your Message Subject or Title"
+msgstr "El asunto o título de tu mensaje"
+
+#: src/Task/Validators/Create_Task.php:12
+msgid "Project ID shoud be numeric."
+msgstr "El ID del proyecto debe ser numérico."
+
+#: views/emails/html/new-comment.php:76 views/emails/html/new-message.php:69
+#: views/emails/html/new-project.php:57 views/assets/js/pm.js:20
+msgid "Created at"
+msgstr "Creado el"
+
+#: core/WP/Frontend.php:201
+msgid "Could you tell us a bit more?"
+msgstr "¿Podrías contarnos un poco más?"
+
+#: core/WP/Frontend.php:200
+msgid "No proper documentation"
+msgstr "No hay documentación adecuada"
+
+#: core/WP/Frontend.php:194
+msgid "Please tell us more about the error. We'll reach you with the possible solution."
+msgstr "Por favor, cuéntenos más sobre el error. Te contactaremos para darte la posible solución."
+
+#: core/WP/Frontend.php:193
+msgid "Found an Error"
+msgstr "He encontrado un error"
+
+#: core/WP/Frontend.php:187
+msgid "Are you facing any problem?"
+msgstr "¿Tienes algún problema?"
+
+#: core/WP/Frontend.php:186
+msgid "Temporary deactivation"
+msgstr "Desactivación temporal"
+
+#: src/Task/Controllers/Task_Controller.php:1328
+msgid "Copy "
+msgstr "Copiar "
+
+#: src/Task/Helper/Task.php:102
+msgid "Project Name"
+msgstr "Nombre del proyecto"
+
+#: src/Project/Controllers/Project_Controller.php:409
+msgid "The project has been removed from favorite"
+msgstr "El proyecto ha sido eliminado de tu lista de favoritos"
+
+#: src/Pusher/Libs/action.php:453
+msgid "updated discussion on a"
+msgstr "ha actualizado la discusión en"
+
+#: src/Pusher/Libs/action.php:432
+msgid "messsage"
+msgstr "mensaje"
+
+#: src/Pusher/Libs/action.php:432
+msgid "You've got a new"
+msgstr "Tienes un nuevo"
+
+#: src/Pusher/Libs/action.php:408
+msgid "started a new discussion on"
+msgstr "iniciado una nueva discusión en"
+
+#: src/Pusher/Libs/action.php:351
+msgid "updated his comment on a"
+msgstr "ha actualizado su comentario en"
+
+#: src/Pusher/Libs/action.php:325
+msgid "updated comment on a"
+msgstr "ha actualizado un comentario en"
+
+#: src/Pusher/Libs/action.php:245 src/Pusher/Libs/action.php:253
+msgid "commented on a"
+msgstr "ha comentado en"
+
+#: src/Pusher/Libs/action.php:165 src/Pusher/Libs/action.php:166
+#: src/Pusher/Libs/action.php:168 src/Pusher/Libs/action.php:169
+#: src/Pusher/Libs/action.php:476
+msgid "has been updated"
+msgstr "ha sido actualizado(a)"
+
+#: src/Pusher/Libs/action.php:160
+msgid "description"
+msgstr "descripción"
+
+#: src/Pusher/Libs/action.php:158
+msgid "title"
+msgstr "título"
+
+#: src/Pusher/Libs/action.php:97 src/Pusher/Libs/action.php:98
+msgid "has been re-opened"
+msgstr "se ha vuelto a abrir"
+
+#: src/Pusher/Libs/action.php:92 src/Pusher/Libs/action.php:93
+msgid "has been completed"
+msgstr "ha sido completada"
+
+#: src/Pusher/Libs/action.php:51
+msgid "You've assigned in"
+msgstr "Has sido asignado(a) en"
+
+#: src/Pusher/Libs/action.php:50
+msgid "You've been assigned a new"
+msgstr "Se te ha asignado una nueva"
+
+#: core/Notifications/Emails/New_Project_Notification.php:30
+msgid "[%s] New Project Created: %s"
+msgstr "[%s] Nuevo proyecto creado: %s"
+
+#: core/User_Profile/Profile_Update.php:89
+msgid "— No capability for this user —"
+msgstr "- No hay capacidades para este usuario -"
+
+#: core/User_Profile/Profile_Update.php:83
+msgid "Capability"
+msgstr "Capacidad"
+
+#: views/project-switch/task-creating.php:6 views/assets/js/pm.js:61
+msgid "Task title"
+msgstr "Título de la tarea"
+
+#: views/emails/html/new-task.php:34
+msgid "assigned a task to you"
+msgstr "te ha asignado una tarea"
+
+#: views/emails/html/complete-task.php:76 views/assets/js/pm.js:36
+msgid "Date"
+msgstr "Fecha"
+
+#: views/emails/html/complete-task.php:38
+msgid " has completed the task"
+msgstr " ha completado la tarea"
+
+#: views/emails/html/complete-task.php:36
+msgid " has re-open the task"
+msgstr " ha vuelto a abrir la tarea"
+
+#: views/emails/html/footer.php:12
+msgid "Made by"
+msgstr "Hecho por"
+
+#: views/emails/html/complete-task.php:117 views/emails/html/new-task.php:108
+#: views/emails/html/update-task.php:110
+msgid "Collaborators"
+msgstr "Colaboradores"
+
+#: views/emails/html/complete-task.php:97 views/emails/html/update-task.php:90
+msgid "No description found!"
+msgstr "¡No se ha encontrado una descripción!"
+
+#: views/emails/html/complete-task.php:63 views/emails/html/new-task.php:55
+#: views/emails/html/update-task.php:55
+msgid "Assign To"
+msgstr "Asignar a"
+
+#: views/emails/html/complete-task.php:44 views/emails/html/new-task.php:36
+#: views/emails/html/update-task.php:35
+msgid "View this task"
+msgstr "Ver esta tarea"
+
+#: views/emails/html/update-task.php:33
+msgid "updated the task"
+msgstr "ha actualizado la tarea"
+
+#: views/emails/html/update-project.php:34
+msgid "update the project"
+msgstr "actualizar el proyecto"
+
+#: views/emails/html/new-comment.php:36
+msgid " commented on "
+msgstr " comentado en "
+
+#: views/emails/html/new-project.php:108
+#: views/emails/html/update-project.php:108
+msgid "Project Assignes"
+msgstr "Proyectos asignados"
+
+#: views/emails/html/new-project.php:77
+msgid "You are assigned a project"
+msgstr "Se te ha asignado un proyecto"
+
+#: views/emails/html/complete-task.php:87 views/emails/html/new-project.php:48
+#: views/emails/html/new-task.php:79 views/emails/html/update-project.php:49
+#: views/emails/html/update-task.php:80 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Project"
+msgstr "Proyecto"
+
+#: views/emails/html/new-project.php:36 views/emails/html/update-project.php:36
+msgid "View this project"
+msgstr "Ver este proyecto"
+
+#: views/emails/html/new-project.php:34
+msgid "assigned a project to you"
+msgstr "te ha asignado un proyecto"
+
+#: views/emails/html/update-message.php:34
+msgid "update the discussion"
+msgstr "actualizar el debate"
+
+#: views/emails/html/new-comment.php:116
+#: views/emails/html/update-comment.php:117
+msgid "Reply"
+msgstr "Responder"
+
+#: views/emails/html/new-comment.php:50 views/emails/html/update-comment.php:50
+msgid "View this comment"
+msgstr "Ver este comentario"
+
+#: views/emails/html/update-comment.php:36
+msgid " update comment on "
+msgstr " ha actualizado un comentario en "
+
+#: views/emails/html/new-message.php:121
+#: views/emails/html/update-message.php:121
+msgid "Discussion Members"
+msgstr "Miembros del debate"
+
+#: views/emails/html/new-message.php:109
+#: views/emails/html/update-message.php:109
+msgid "View Discussion"
+msgstr "Ver debate"
+
+#: views/emails/html/new-message.php:82 views/emails/html/update-message.php:82
+msgid "Details"
+msgstr "Detalles"
+
+#: views/emails/html/new-message.php:47 views/emails/html/update-message.php:47
+msgid "View this discussion"
+msgstr "Ver este debate"
+
+#: views/emails/html/new-message.php:34
+msgid "start a new discussion"
+msgstr "iniciar un nuevo debate"
+
+#: libs/functions.php:1323
+msgid "PM Manager"
+msgstr "Gerente de PM"
+
+#: libs/functions.php:1322
+msgid "PM Admin"
+msgstr "Administrador de PM"
+
+#: core/WP/Menu.php:24
+msgid "My Tasks %s"
+msgstr "Mis tareas %s"
+
+#: core/Admin_Notice/Admin_Notice.php:45
+msgid "Update WP Project Manager Pro Now"
+msgstr "Actualizar WP Project Manager Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:42
+msgid "to work with the latest version of WP Project Manager"
+msgstr "para trabajar con la última versión de WP Project Manager"
+
+#: core/Admin_Notice/Admin_Notice.php:39
+msgid "to >= v2.0.12"
+msgstr "hasta >= v2.0.12"
+
+#: core/Admin_Notice/Admin_Notice.php:37
+msgid "WP Project Manager Pro"
+msgstr "WP Project Manager Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:35
+msgid "WP Project Manager Pro is not working because you are using an old version of WP Project Manager Pro. Please update"
+msgstr "WP Project Manager Pro no funciona porque estás utilizando una versión antigua. Por favor, actualiza"
+
+#: core/Admin_Notice/Admin_Notice.php:33
+msgid "UPDATE REQUIRED"
+msgstr "ACTUALIZACIÓN OBLIGATORIA"
+
+#: core/WP/Menu.php:38
+msgid "Premium"
+msgstr "Premium"
+
+#: core/WP/Menu.php:46
+msgid "Tools"
+msgstr "Herramientas"
+
+#: src/Settings/Controllers/Settings_Controller.php:125
+msgid "Delete settings record"
+msgstr "Borrar el registro de ajustes"
+
+#: src/Comment/Validators/Create_Comment.php:11
+#: src/Discussion_Board/Validators/Create_Discussion_Board.php:11
+#: src/Milestone/Validators/Create_Milestone.php:11
+#: src/Project/Validators/Update_Project.php:12
+#: src/Task/Validators/Create_Task.php:11
+#: src/Task_List/Validators/Create_Task_List.php:11
+msgid "Project ID is required."
+msgstr "Se requiere el ID del proyecto."
+
+#: src/Search/Controllers/Search_Controller.php:84
+#: src/Search/Controllers/Search_Controller.php:127 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "No results found."
+msgstr "No se han encontrado resultados."
+
+#: views/emails/html/new-message.php:60 views/emails/html/update-message.php:60
+#: views/assets/js/library.js:20 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Discussion"
+msgstr "Discusión"
+
+#: texts/activities.php:332
+msgid "%1$s has duplicated list from, %2$s."
+msgstr "%1$s ha duplicado la lista de , %2$s."
+
+#: texts/activities.php:322
+msgid "%1$s has deleted a reply comment on a file, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un archivo, %2$s."
+
+#: texts/activities.php:310
+msgid "%1$s has deleted a comment on a file, %2$s."
+msgstr "%1$s ha eliminado un comentario en un archivo, %2$s."
+
+#: texts/activities.php:296
+msgid "%1$s has deleted a reply comment on the project, %2$s."
+msgstr "%1$s ha eliminado una respuesta sobre el proyecto %2$s."
+
+#: texts/activities.php:284
+msgid "%1$s has deleted a comment on the project, %2$s."
+msgstr "%1$s ha eliminado un comentario sobre el proyecto, %2$s."
+
+#: texts/activities.php:270
+msgid "%1$s has deleted a reply comment on a milestone, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un hito, %2$s."
+
+#: texts/activities.php:258
+msgid "%1$s has deleted a comment on a milestone, %2$s."
+msgstr "%1$s ha eliminado un comentario en un hito, %2$s."
+
+#: texts/activities.php:244
+msgid "%1$s has deleted a reply comment on a discussion board, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un panel de discusión, %2$s."
+
+#: texts/activities.php:232
+msgid "%1$s has deleted a comment on a discussion board, %2$s."
+msgstr "%1$s ha eliminado un comentario en un foro de discusión, %2$s."
+
+#: texts/activities.php:218
+msgid "%1$s has deleted a reply comment on a task list, %2$s."
+msgstr "%1$s ha eliminado una respuesta en una lista de tareas, %2$s."
+
+#: texts/activities.php:206
+msgid "%1$s has deleted a comment on a task list, %2$s."
+msgstr "%1$s ha eliminado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:192
+msgid "%1$s has deleted a reply comment on a task, %2$s."
+msgstr "%1$s ha eliminado una respuesta en una tarea, %2$s."
+
+#: texts/activities.php:180
+msgid "%1$s has deleted a comment on a task, %2$s."
+msgstr "%1$s ha eliminado un comentario en una tarea, %2$s."
+
+#: texts/activities.php:126
+msgid "%1$s has deleted a task, %2$s."
+msgstr "%1$s ha eliminado una tarea, %2$s."
+
+#: texts/activities.php:116
+msgid "%1$s has updated the status of a milestone, %2$s."
+msgstr "%1$s ha actualizado el estado de un hito, %2$s."
+
+#: texts/activities.php:100
+msgid "%1$s has deleted a milestone, %2$s."
+msgstr "%1$s ha eliminado un hito, %2$s."
+
+#: texts/activities.php:90
+msgid "%1$s has restored a task list, %2$s."
+msgstr "%1$s ha restaurado una lista de tareas, %2$s."
+
+#: texts/activities.php:86
+msgid "%1$s has archived a task list, %2$s."
+msgstr "%1$s ha archivado una lista de tareas, %2$s."
+
+#: texts/activities.php:70
+msgid "%1$s has deleted a task list titled as %2$s."
+msgstr "%1$s ha eliminado una lista de tareas titulada como %2$s."
+
+#: texts/activities.php:60
+msgid "%1$s has updated the status of a discussion board, %2$s."
+msgstr "%1$s ha actualizado el estado de un foro de discusión, %2$s."
+
+#: texts/activities.php:44
+msgid "%1$s has deleted a discussion board titled as %2$s."
+msgstr "%1$s ha eliminado un panel de discusión titulado como %2$s."
+
+#: core/Promotions/Offers.php:176 core/Promotions/Wedevs_Promotion.php:190
+msgid "Invalid nonce"
+msgstr "Nonce no válido"
+
+#: core/Promotions/Offers.php:181 core/Promotions/Wedevs_Promotion.php:194
+msgid "You have no permission to do that"
+msgstr "No tienes permiso para hacer eso"
+
+#: core/Promotions/Wedevs_Promotion.php:82
+msgid "Learn More &rarr;"
+msgstr "Aprende más &rarr;"
+
+#: core/WP/Frontend.php:368 views/project-switch/project-switch.php:5
+msgid "Jump to a project"
+msgstr "Ir a un proyecto"
+
+#: core/WP/Frontend.php:339 core/WP/Frontend.php:352
+msgid "Create New Task"
+msgstr "Crear nueva tarea"
+
+#: core/Notifications/Emails/Update_Message_Notification.php:58
+msgid "[%s][%s] Update Message: %s"
+msgstr "[%s][%s] Actualizar mensaje: %s"
+
+#: core/Notifications/Background_Emailer.php:48
+#: core/Notifications/Notification.php:112
+msgid "Transactional email triggered fatal error for callback "
+msgstr "El correo electrónico transaccional provocó un error fatal de devolución de llamada "
+
+#: core/Upgrades/Upgrade.php:153
+msgid "&#8211; Please click the button below to update to the latest version."
+msgstr "&#8211; Por favor, haz clic en el botón de abajo para actualizar a la última versión."
+
+#: core/Upgrades/Upgrade.php:152
+msgid "WP Project Manager Data Update Required"
+msgstr "Actualización de datos de WP Project Manager obligatoria"
+
+#: core/Upgrades/Upgrade_2_2.php:34
+#: src/Project/Controllers/Project_Controller.php:428 views/assets/js/pm.js:36
+msgid "This is a system default task list. Any task without an assigned tasklist will appear here."
+msgstr "Esta es una lista de tareas predeterminada del sistema. Cualquier tarea sin una lista de tareas asignada aparecerá aquí."
+
+#: core/Upgrades/Upgrade_2_2.php:33
+#: src/Project/Controllers/Project_Controller.php:427 views/assets/js/pm.js:36
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
+#: src/Project/Controllers/Project_Controller.php:406
+msgid "The project has been marked as favorite"
+msgstr "El proyecto ha sido marcado como favorito"
+
+#: src/Project/Validators/Create_Project.php:11
+#: src/Project/Validators/Update_Project.php:11
+msgid "Project title must be unique."
+msgstr "El título del proyecto debe ser único."
+
+#. Author URI of the plugin
+#: cpm.php
+msgid "https://wedevs.com"
+msgstr "https://wedevs.com"
+
+#. Author of the plugin
+#: cpm.php
+msgid "weDevs"
+msgstr "weDevs"
+
+#. Description of the plugin
+#: cpm.php
+msgid "WordPress Project Management plugin. Manage your projects and tasks, get things done."
+msgstr "Plugin de gestión de proyectos para WordPress. Gestiona tus proyectos y tareas, haz que las cosas sucedan."
+
+#. Plugin URI of the plugin
+#: cpm.php
+msgid "https://wedevs.com/wp-project-manager-pro/"
+msgstr "https://wedevs.com/wp-project-manager-pro/"
+
+#. Plugin Name of the plugin
+#: cpm.php core/User_Profile/Profile_Update.php:56 views/assets/js/pm.js:36
+msgid "WP Project Manager"
+msgstr "WP Project Manager"
+
+#: views/emails/html/new-comment.php:89 views/emails/html/update-comment.php:89
+msgid "Comment"
+msgstr "Comentario"
+
+#: views/emails/html/update-comment.php:76
+#: views/emails/html/update-message.php:69
+#: views/emails/html/update-project.php:58
+msgid "Updated at"
+msgstr "Actualizado a las"
+
+#: src/Task/Helper/Task.php:104
+msgid "Created At"
+msgstr "Creado a las"
+
+#: views/emails/html/new-project.php:96 views/emails/html/update-project.php:96
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: views/emails/html/new-project.php:85 views/emails/html/update-project.php:85
+msgid "You can see the project by going here: "
+msgstr "Puedes ver el proyecto yendo aquí:"
+
+#: views/emails/html/complete-task.php:105 views/emails/html/new-task.php:96
+#: views/emails/html/update-task.php:98
+msgid "View Task"
+msgstr "Ver tarea"
+
+#: src/Pusher/Libs/action.php:162
+msgid "due date"
+msgstr "fecha de vencimiento"
+
+#: texts/success_messages.php:90
+msgid "Task reopened"
+msgstr "Tarea reactivada"
+
+#: texts/success_messages.php:87
+msgid "Task marked as done"
+msgstr "Tarea marcada como hecha"
+
+#: texts/success_messages.php:81
+msgid "No elements found."
+msgstr "No se han encontrado elementos."
+
+#: texts/success_messages.php:78
+msgid "Settings has been changed successfully."
+msgstr "Los ajustes se han modificado correctamente."
+
+#: texts/success_messages.php:75
+msgid "A task has been deleted successfully."
+msgstr "Una tarea ha sido eliminada correctamente."
+
+#: texts/success_messages.php:72
+msgid "A task has been updated successfully."
+msgstr "Una tarea ha sido actualizada correctamente."
+
+#: texts/success_messages.php:69
+msgid "A new task has been created successfully."
+msgstr "Una nueva tarea ha sido creada correctamente."
+
+#: texts/success_messages.php:65
+msgid "A task list has been deleted successfully."
+msgstr "Una lista  de tareas ha sido borrada correctamente."
+
+#: texts/success_messages.php:62
+msgid "A task list has been updated successfully."
+msgstr "Una lista de tareas ha sido actualizada correctamente."
+
+#: texts/success_messages.php:59
+msgid "A new task list has been created successfully."
+msgstr "Una nueva lista de tareas ha sido creada correctamente."
+
+#: texts/success_messages.php:55
+msgid "A milestone has been deleted successfully."
+msgstr "Un hito ha sido eliminado correctamente."
+
+#: texts/success_messages.php:52
+msgid "A milestone has been updated successfully."
+msgstr "Un hito ha sido actualizado correctamente."
+
+#: texts/success_messages.php:49
+msgid "A new milestone has been created successfully."
+msgstr "Un nuevo hito ha sido creado correctamente."
+
+#: texts/success_messages.php:45
+msgid "A discussion has been deleted successfully."
+msgstr "Una discusión ha sido eliminada correctamente."
+
+#: texts/success_messages.php:42
+msgid "A discussion has been updated successfully."
+msgstr "Se ha actualizado una discusión correctamente."
+
+#: texts/success_messages.php:39
+msgid "A new discussion has been created successfully."
+msgstr "Se ha creado una nueva discusión correctamente."
+
+#: texts/success_messages.php:35
+msgid "A comment has been deleted successfully."
+msgstr "Un comentario ha sido eliminado correctamente."
+
+#: texts/success_messages.php:32
+msgid "A comment has been updated successfully."
+msgstr "Se ha actualizado un comentario correctamente."
+
+#: texts/success_messages.php:29
+msgid "Successfully commented."
+msgstr "Se ha comentado correctamente."
+
+#: texts/success_messages.php:25
+msgid "All the selected categories has been deleted successfully."
+msgstr "Todas las categorías seleccionadas se han eliminado correctamente."
+
+#: texts/success_messages.php:22
+msgid "A category has been deleted successfully."
+msgstr "Una categoría se ha eliminado correctamente."
+
+#: texts/success_messages.php:19
+msgid "A category has been updated successfully."
+msgstr "Una categoría se ha actualizado correctamente."
+
+#: texts/success_messages.php:16
+msgid "A new category has been created successfully."
+msgstr "Se ha creado una categoría correctamente."
+
+#: texts/success_messages.php:12
+msgid "A project has been deleted successfully."
+msgstr "Un proyecto se ha borrado correctamente."
+
+#: texts/success_messages.php:9
+msgid "A project has been updated successfully."
+msgstr "Un proyecto ha sido actualizado correctamente."
+
+#: texts/success_messages.php:6
+msgid "A new project has been created successfully."
+msgstr "Se ha creado un proyecto correctamente."
+
+#: src/Pusher/Libs/action.php:225 src/Pusher/Libs/action.php:305
+#: texts/resource_types.php:23
+msgid "file"
+msgstr "archivo"
+
+#: texts/resource_types.php:20
+msgid "comment"
+msgstr "comentario"
+
+#: texts/resource_types.php:17
+msgid "milestone"
+msgstr "hito"
+
+#: src/Pusher/Libs/action.php:50 src/Pusher/Libs/action.php:51
+#: src/Pusher/Libs/action.php:219 src/Pusher/Libs/action.php:300
+#: texts/resource_types.php:14
+msgid "task"
+msgstr "tarea"
+
+#: src/Pusher/Libs/action.php:211 src/Pusher/Libs/action.php:292
+#: texts/resource_types.php:11
+msgid "task list"
+msgstr "lista de tareas"
+
+#: src/Pusher/Libs/action.php:233 src/Pusher/Libs/action.php:313
+#: texts/resource_types.php:8
+msgid "discussion board"
+msgstr "tablero de discusión"
+
+#: texts/resource_types.php:5
+msgid "project"
+msgstr "proyecto"
+
+#: texts/activities.php:328
+msgid "%1$s has duplicated project from, %2$s."
+msgstr "%1$s ha duplicado el proyecto de , %2$s."
+
+#: texts/activities.php:318
+msgid "%1$s has updated a reply comment on a file, %2$s."
+msgstr "%1$s ha actualizado una respuesta en un archivo, %2$s."
+
+#: texts/activities.php:314
+msgid "%1$s has replied a comment on a file, %2$s"
+msgstr "%1$s ha contestado un comentario sobre un archivo, %2$s"
+
+#: texts/activities.php:306
+msgid "%1$s has updated a comment on a file, %2$s."
+msgstr "%1$s ha actualizado un comentario en un archivo, %2$s."
+
+#: texts/activities.php:302
+msgid "%1$s has commented on a file, %2$s."
+msgstr "%1$s ha comentado en un archivo, %2$s."
+
+#: texts/activities.php:292
+msgid "%1$s has updated a reply comment on the project, %2$s."
+msgstr "%1$s ha actualizado una respuesta sobre el proyecto, %2$s."
+
+#: texts/activities.php:288
+msgid "%1$s has replied a comment on the project, %2$s"
+msgstr "%1$s ha contestado un comentario en el proyecto, %2$s"
+
+#: texts/activities.php:280
+msgid "%1$s has updated a comment on the project, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre el proyecto, %2$s."
+
+#: texts/activities.php:276
+msgid "%1$s has commented on the project, %2$s."
+msgstr "%1$s ha comentado sobre el proyecto, %2$s."
+
+#: texts/activities.php:266
+msgid "%1$s has updated a reply comment on a milestone, %2$s."
+msgstr "%1$s ha actualizado un comentario en un hito, %2$s."
+
+#: texts/activities.php:262
+msgid "%1$s has replied a comment on a milestone, %2$s"
+msgstr "%1$s ha contestado un comentario sobre un hito, %2$s"
+
+#: texts/activities.php:254
+msgid "%1$s has updated a comment on a milestone, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre un hito, %2$s."
+
+#: texts/activities.php:250
+msgid "%1$s has commented on a milestone, %2$s."
+msgstr "%1$s ha comentado sobre un hito, %2$s."
+
+#: texts/activities.php:240
+msgid "%1$s has updated a reply comment on a discussion board, %2$s."
+msgstr "%1$s ha actualizado una respuesta en un foro de discusión, %2$s."
+
+#: texts/activities.php:236
+msgid "%1$s has replied a comment on a discussion board, %2$s"
+msgstr "%1$s ha respondido a un comentario en un foro de discusión, %2$s"
+
+#: texts/activities.php:228
+msgid "%1$s has updated a comment on a discussion board, %2$s."
+msgstr "%1$s ha actualizado un comentario en un foro de discusión, %2$s."
+
+#: texts/activities.php:224
+msgid "%1$s has commented on a discussion board, %2$s."
+msgstr "%1$s ha comentado en un foro de discusión, %2$s."
+
+#: texts/activities.php:214
+msgid "%1$s has updated a reply comment on a task list, %2$s."
+msgstr "%1$s ha actualizado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:210
+msgid "%1$s has replied a comment on a task list, %2$s"
+msgstr "%1$s ha contestado un comentario en una lista de tareas, %2$s"
+
+#: texts/activities.php:202
+msgid "%1$s has updated a comment on a task list, %2$s."
+msgstr "%1$s ha actualizado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:198
+msgid "%1$s has commented on a task list, %2$s."
+msgstr "%1$s ha comentado en una lista de tareas, %2$s."
+
+#: texts/activities.php:188
+msgid "%1$s has updated a reply comment on a task, %2$s."
+msgstr "%1$s ha actualizado un comentario en una tarea, %2$s."
+
+#: texts/activities.php:184
+msgid "%1$s has replied a comment on a task, %2$s"
+msgstr "%1$s ha contestado un comentario sobre una tarea, %2$s"
+
+#: texts/activities.php:176
+msgid "%1$s has updated a comment on a task, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre una tarea, %2$s."
+
+#: texts/activities.php:172
+msgid "%1$s has commented on a task, %2$s."
+msgstr "%1$s ha comentado en una tarea, %2$s."
+
+#: texts/activities.php:166
+msgid "%1$s has updated the status of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado el estado de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:162
+msgid "%1$s has updated the recurrency of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la recurrencia de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:158
+msgid "%1$s has updated the payable status of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado el estado pagadero de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:154
+msgid "%1$s has updated the priority of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la prioridad de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:150
+msgid "%1$s has updated the complexity of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la complejidad de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:146
+msgid "%1$s has updated the due date of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la fecha de vencimiento de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:142
+msgid "%1$s has updated the start date of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la fecha de inicio de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:138
+msgid "%1$s has updated the estimation of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la estimación de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:134
+msgid "%1$s has updated the description of a task, %2$s."
+msgstr "%1$s ha actualizado la descripción de una tarea, %2$s."
+
+#: texts/activities.php:130
+msgid "%1$s has updated the title of a task from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de una tarea de «%2$s» a «%3$s»."
+
+#: texts/activities.php:122
+msgid "%1$s has created a task, %2$s."
+msgstr "%1$s ha creado una tarea, %2$s."
+
+#: texts/activities.php:112
+msgid "%1$s has updated the order of a milestone, %2$s."
+msgstr "%1$s ha actualizado el orden de un hito, %2$s."
+
+#: texts/activities.php:108
+msgid "%1$s has updated the description of a milestone, %2$s."
+msgstr "%1$s ha actualizado la descripción de un hito, %2$s."
+
+#: texts/activities.php:104
+msgid "%1$s has updated the title of a milestone from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de un hito de «%2$s» a «%3$s»."
+
+#: texts/activities.php:96
+msgid "%1$s has created a milestone, %2$s."
+msgstr "%1$s ha creado un hito, %2$s."
+
+#: texts/activities.php:82
+msgid "%1$s has updated the order of a task list, %2$s."
+msgstr "%1$s ha actualizado el orden de una lista de tareas, %2$s."
+
+#: texts/activities.php:78
+msgid "%1$s has updated the description of a task list, %2$s."
+msgstr "%1$s ha actualizado la descripción de una lista de tareas, %2$s."
+
+#: texts/activities.php:74
+msgid "%1$s has updated the title of a task list from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de una lista de tareas de «%2$s» a «%3$s»."
+
+#: texts/activities.php:66
+msgid "%1$s has created a task list titled as %2$s."
+msgstr "%1$s ha creado una lista de tareas titulada como %2$s."
+
+#: texts/activities.php:56
+msgid "%1$s has updated the order of a discussion board, %2$s."
+msgstr "%1$s ha actualizado el orden de un foro de discusión, %2$s."
+
+#: texts/activities.php:52
+msgid "%1$s has updated the description of a discussion board, %2$s."
+msgstr "%1$s ha actualizado la descripción de un foro de discusión, %2$s."
+
+#: texts/activities.php:48
+msgid "%1$s has updated the title of a discussion board from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de un foro de discusión de «%2$s» a «%3$s»."
+
+#: texts/activities.php:40
+msgid "%1$s has created a discussion board titled as %2$s."
+msgstr "%1$s ha creado un foro de discusión titulado %2$s."
+
+#: texts/activities.php:34
+msgid "%1$s has updated project color code from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el código de color del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:30
+msgid "%1$s has updated project est completion date from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado la fecha de finalización del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:26
+msgid "%1$s has updated project pay rate from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado la tasa de pago del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:22
+msgid "%1$s has updated project budget from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el presupuesto del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:18
+msgid "%1$s has updated project status from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el estado del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:14
+msgid "%1$s has updated %2$s project description."
+msgstr "%1$s ha actualizado %2$s descripción del proyecto."
+
+#: texts/activities.php:10
+msgid "%1$s has updated project title from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:6
+msgid "%1$s has created a project titled as %2$s."
+msgstr "%1$s ha creado un proyecto titulado %2$s."
+
+#: src/Task_List/Validators/Update_Task_List.php:12
+msgid "Task list ID must be greater than zero"
+msgstr "El ID de lista de tareas debe ser mayor que cero"
+
+#: src/Task_List/Validators/Update_Task_List.php:11
+msgid "Task list ID is required."
+msgstr "Se requiere el identificador de lista de tareas."
+
+#: src/Task_List/Validators/Create_Task_List.php:10
+#: src/Task_List/Validators/Update_Task_List.php:10
+msgid "Task list title is required."
+msgstr "El título de la lista de tareas es obligatorio."
+
+#: src/Task/Validators/Update_Task.php:12
+msgid "Task ID must be greater than zero"
+msgstr "El ID de la tarea debe ser mayor que cero"
+
+#: src/Task/Validators/Update_Task.php:11
+msgid "Task ID is required."
+msgstr "Se requiere el ID de la tarea."
+
+#: src/Task/Validators/Create_Task.php:10
+#: src/Task/Validators/Update_Task.php:10
+msgid "Task title is required."
+msgstr "El título de la tarea es obligatorio."
+
+#: src/Role/Validators/Update_Role.php:12
+msgid "Role ID must be greater than zero"
+msgstr "El ID del perfil debe ser mayor a cero"
+
+#: src/Role/Validators/Update_Role.php:11
+msgid "Role ID is required."
+msgstr "El ID de perfil es obligatorio."
+
+#: src/Role/Validators/Create_Role.php:10
+#: src/Role/Validators/Update_Role.php:10
+msgid "Role title is required."
+msgstr "El título del perfil es obligatorio."
+
+#: src/Project/Validators/Update_Project.php:13
+msgid "Project ID must be greater than zero"
+msgstr "El ID del proyecto debe ser mayor que cero"
+
+#: src/Project/Validators/Create_Project.php:10
+#: src/Project/Validators/Update_Project.php:10 views/assets/js/pm.js:1
+#: views/assets/js/pm.js:20
+msgid "Project title is required."
+msgstr "El título del proyecto es obligatorio."
+
+#: src/Milestone/Validators/Update_Milestone.php:12
+msgid "Milestone ID must be greater than zero"
+msgstr "El ID del hito debe ser mayor que cero"
+
+#: src/Milestone/Validators/Update_Milestone.php:11
+msgid "Milestone ID is required."
+msgstr "Se requiere el ID de hito."
+
+#: src/Milestone/Validators/Create_Milestone.php:10
+#: src/Milestone/Validators/Update_Milestone.php:10
+msgid "Milestone title is required."
+msgstr "El título del hito es obligatorio."
+
+#: src/File/Controllers/File_Controller.php:102
+msgid "file not found"
+msgstr "archivo no encontrado"
+
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:12
+msgid "Discussion ID must be greater than zero"
+msgstr "El ID de la discusión debe ser mayor que cero"
+
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:11
+msgid "Discussion ID is required."
+msgstr "El ID de la discusión es obligatorio."
+
+#: src/Discussion_Board/Validators/Create_Discussion_Board.php:10
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:10
+msgid "Discussion title is required."
+msgstr "El título de la discusión es obligatorio."
+
+#: src/Comment/Validators/Update_Comment.php:12
+msgid "Comment ID must be greater than zero"
+msgstr "El ID del comentario debe ser mayor que cero"
+
+#: src/Comment/Validators/Update_Comment.php:11
+msgid "Comment ID is required."
+msgstr "El ID del comentario es obligatorio."
+
+#: src/Comment/Validators/Create_Comment.php:10
+#: src/Comment/Validators/Update_Comment.php:10
+msgid "Comment title is required."
+msgstr "El título del comentario es obligatorio."
+
+#: src/Category/Validators/Update_Category.php:12
+msgid "Category ID must be greater than zero"
+msgstr "El ID de la categoría debe ser mayor que cero"
+
+#: src/Category/Validators/Update_Category.php:11
+msgid "Category ID is required."
+msgstr "El ID de la categoría es obligatorio."
+
+#: src/Category/Validators/Create_Category.php:10
+#: src/Category/Validators/Update_Category.php:10
+msgid "Category title is required."
+msgstr "El título de la categoría es obligatorio."
+
+#: src/Task/Helper/Task.php:103 views/emails/html/new-task.php:68
+#: views/emails/html/update-task.php:68 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36 views/assets/js/pm.js:61
+msgid "Due Date"
+msgstr "Fecha de vencimiento"
+
+#: src/Task/Helper/Task.php:100 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Tasks"
+msgstr "Tareas"
+
+#: texts/success_messages.php:84 views/assets/js/pm.js:36
+msgid "No projects found."
+msgstr "No se han encontrado proyectos."
+
+#: views/emails/html/new-project.php:79 views/assets/js/pm.js:28
+msgid "by"
+msgstr "por"
+
+#: views/emails/html/complete-task.php:95 views/emails/html/update-task.php:88
+#: views/assets/js/library.js:20 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Description"
+msgstr "Descripción"
+
+#: db/seeds/RoleTableSeeder.php:35
+msgid "Co-worker is person who works under a project."
+msgstr "Un trabajador es una persona que trabaja en un proyecto."
+
+#: db/seeds/RoleTableSeeder.php:33
+msgid "Co-Worker"
+msgstr "Trabajador"
+
+#: db/seeds/RoleTableSeeder.php:25
+msgid "Manager is a person who manages the project."
+msgstr "El gerente es la persona que dirige el proyecto."
+
+#: db/seeds/RoleTableSeeder.php:23
+msgid "Manager"
+msgstr "Gerente"
+
+#: core/Pro/Menu.php:46 views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Progress"
+msgstr "Progreso"
+
+#: core/Pro/Menu.php:44 views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Calendar"
+msgstr "Calendario"
+
+#: core/WP/Menu.php:28 views/assets/js/pm.js:36
+msgid "Categories"
+msgstr "Categorías"
+
+#: core/WP/Menu.php:21 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Projects"
+msgstr "Proyectos"
+
+#: core/WP/Menu.php:19 libs/functions.php:1006 views/assets/js/pm.js:36
+msgid "Project Manager"
+msgstr "Gestor de proyectos"
+
+#: core/WP/Frontend.php:292
+msgid "Documentation"
+msgstr "Documentación"
+
+#: core/WP/Frontend.php:291 core/WP/Menu.php:42 views/assets/js/pm.js:36
+msgid "Settings"
+msgstr "Ajustes"
+
+#: core/WP/Frontend.php:288
+msgid "Get Pro"
+msgstr "Obtén la versión Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:181
+msgid "Read Docs"
+msgstr "Leer la documentación"
+
+#: core/Admin_Notice/Admin_Notice.php:172
+msgid "<p>To migrate version 2.0, Please read mmigration docs </p>"
+msgstr "<p>Para migrar a la versión 2.0, por favor, lee la documentación de migración </p>"
+
+#: core/Admin_Notice/Admin_Notice.php:171
+msgid "<h2>WP Project Manager Pro required version 2.0 or above.</span></h2>"
+msgstr "<h2>WP Project Manager Pro requiere la versión 2.0 o superior.</span></h2>"
+
+#: core/WP/Frontend.php:242
+msgid "Every %d Minutes PM schedule"
+msgstr "Programado cada %d minutos PM"
+
+#: core/WP/Enqueue_Scripts.php:73
+msgid "Allowed Files"
+msgstr "Archivos permitidos"
+
+#: core/Upgrades/Upgrade.php:166
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Se recomienda encarecidamente que, antes de continuar, hagas una copia de seguridad de tu base de datos. ¿Seguro que quieres ejecutar el actualizador ahora?"
+
+#: core/Upgrades/Upgrade.php:158
+msgid "Read More"
+msgstr "Leer más"
+
+#: core/Upgrades/Upgrade.php:157
+msgid "Run the Update"
+msgstr "Ejecutar la actualización"
+
+#: core/Permissions/Project_Create_Capability.php:15
+msgid "You have no permission to create project."
+msgstr "No tienes permisos para crear un proyecto."
+
+#: core/Permissions/Create_File.php:18
+msgid "You have no permission to create message."
+msgstr "No tienes permisos para crear un mensaje."
+
+#: core/Permissions/Complete_Task.php:36
+msgid "You have no permission to change task status."
+msgstr "No tienes permisos para cambiar el estado de una tarea."
+
+#: core/Permissions/Access_Project.php:28 core/Permissions/Admin.php:15
+#: core/Permissions/Create_Discuss.php:19
+#: core/Permissions/Create_Milestone.php:18 core/Permissions/Create_Task.php:18
+#: core/Permissions/Create_Task_List.php:19 core/Permissions/Delete_Task.php:27
+#: core/Permissions/Edit_Comment.php:31 core/Permissions/Edit_Discuss.php:30
+#: core/Permissions/Edit_File.php:29 core/Permissions/Edit_Milestone.php:30
+#: core/Permissions/Edit_Task.php:32 core/Permissions/Edit_Task_List.php:30
+#: core/Permissions/Manager.php:15
+#: core/Permissions/Project_Manage_Capability.php:18
+#: core/Permissions/Project_Manage_Capability.php:29
+#: core/Permissions/Project_Settings_Page_Access.php:15
+#: core/Permissions/Project_Settings_Page_Access.php:26
+msgid "You have no permission."
+msgstr "No tienes permisos."
+
+#: core/Notifications/Emails/Update_Task_Notification.php:46
+msgid "[%s][%s] Update Task Assigned: %s"
+msgstr "[%s][%s] Actualizar tarea asignada: %s"
+
+#: core/Notifications/Emails/Update_Project_Notification.php:26
+msgid "[%s] Updated Project: %s"
+msgstr "[%s] Proyecto actualizado: %s"
+
+#: core/Notifications/Emails/Update_Comment_Notification.php:51
+msgid "[%s][%s] Update Comment on: %s"
+msgstr "[%s] [%s] Comentario actualizado el: %s"
+
+#: core/Notifications/Emails/New_Task_Notification.php:46
+msgid "[%s][%s] New Task Assigned: %s"
+msgstr "[%s][%s] Nueva tarea asignada: %s"
+
+#: core/Notifications/Emails/New_Message_Notification.php:58
+msgid "[%s][%s] New Message: %s"
+msgstr "[%s] [%s] Nuevo mensaje: %s"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:82
+msgid "[%s][%s] New Comment on: %s"
+msgstr "[%s][%s] Nuevo comentario el: %s"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:70
+msgid "File"
+msgstr "Archivo"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:65
+#: core/Notifications/Emails/Update_Comment_Notification.php:60
+#: src/Pusher/Libs/action.php:92 src/Pusher/Libs/action.php:97
+#: src/Pusher/Libs/action.php:165 src/Pusher/Libs/action.php:168
+#: views/emails/html/complete-task.php:56 views/emails/html/new-task.php:48
+#: views/emails/html/update-task.php:48 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36 views/assets/js/pm.js:61
+msgid "Task"
+msgstr "Tarea"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:60
+#: core/Notifications/Emails/Update_Comment_Notification.php:57
+#: src/Task/Helper/Task.php:101 views/assets/js/pm.js:36
+msgid "Task List"
+msgstr "Lista de tareas"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:55
+#: core/Notifications/Emails/Update_Comment_Notification.php:54
+#: src/Pusher/Libs/action.php:476
+msgid "Message"
+msgstr "Mensaje"
+
+#: core/Notifications/Emails/Complete_Task_Notification.php:48
+msgid "[%s] %s Task mark as %s in %s"
+msgstr "[%s] %s Tarea marcada como %s en %s"

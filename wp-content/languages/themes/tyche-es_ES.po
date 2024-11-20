@@ -1,0 +1,1470 @@
+# Translation of Themes - Tyche in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Tyche package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-19 09:06:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Tyche\n"
+
+#. Description of the theme
+msgid "A WooCommerce theme"
+msgstr "Un tema para WooCommerce"
+
+#. Theme Name of the theme
+#: inc/customizer/theme-options/regular-sections.php:44
+msgid "Tyche"
+msgstr "Tyche"
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/libraries/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/customizer/theme-options/options.php:399
+msgid "this slider will be displayed when the selected language is: %s"
+msgstr "este carrusel se mostrará cuando el idioma seleccionado sea: %s"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:164
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:289
+msgid "You must be a Super User!"
+msgstr "¡Debes ser un súper usuario!"
+
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:226
+msgid "You must be logged in to do that!"
+msgstr "¡Debes estar conectado para hacer eso!"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-upsell.php:64
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:232
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:223
+msgid "Line Height"
+msgstr "Altura de la línea"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:214
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: inc/libraries/epsilon-framework/controls/class-epsilon-control-typography.php:184
+msgid "Theme default"
+msgstr "Tema por defecto"
+
+#: inc/customizer/theme-options/sections.php:15
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/theme-options/options.php:514
+msgid "Info Section #3 Text"
+msgstr "Texto de la sección de información #3"
+
+#: inc/customizer/theme-options/options.php:147
+msgid "Number the products on Shop with Sidebar"
+msgstr "Número de productos en la tienda con barra lateral"
+
+#: inc/customizer/theme-options/options.php:135
+msgid "Number the columns on Shop with Sidebar"
+msgstr "Número de columnas en la tienda con barra lateral"
+
+#: inc/customizer/theme-options/options.php:123
+msgid "Number the products on Full Width Shop"
+msgstr "Número de productos en la tienda de ancho completo"
+
+#: inc/customizer/theme-options/options.php:111
+msgid "Number the columns on Full Width Shop"
+msgstr "Número de columnas en la tienda de ancho completo"
+
+#: inc/customizer/theme-options/options.php:103
+msgid "Enable Image Zoom"
+msgstr "Activar el zoom de la imagen"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Plantilla de página de contacto"
+
+#: template-parts/top-header.php:69
+msgid "Search ..."
+msgstr "Buscar..."
+
+#: template-parts/top-header.php:68
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: template-parts/top-header.php:34
+msgid "Account"
+msgstr "Cuenta"
+
+#: template-parts/top-header.php:25
+msgid "My Cart"
+msgstr "Mi carrito"
+
+#: template-parts/main-slider.php:28
+msgid "Learn More"
+msgstr "Saber más"
+
+#: template-parts/main-slider.php:27
+msgid "Shop Now"
+msgstr "Comprar ahora"
+
+#: template-parts/main-slider.php:25
+msgid "Autumn Collection"
+msgstr "Colección de otoño"
+
+#: template-parts/content.php:30
+msgid "Read More"
+msgstr "Leer más"
+
+#: template-parts/content.php:34 template-parts/content-page.php:24
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/banner/banner-adsense.php:21
+msgid "Loading"
+msgstr "Cargando"
+
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: page-templates/contact.php:61
+msgid "OUR LOCATION"
+msgstr "NUESTRA UBICACIÓN"
+
+#: page-templates/contact.php:50
+msgid "GIVE US A CALL"
+msgstr "HAZNOS UNA LLAMADA"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:159
+msgid "Offset"
+msgstr "Compensación"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:153
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:139
+msgid "Show Date"
+msgstr "Mostrar la fecha"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:54
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:105
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:34
+msgid "Displays your most recent posts (thumbnail included for the posts)."
+msgstr "Muestra tus entradas recientes (incluida la miniatura en las entradas)."
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:32
+msgid "Tyche Recent Posts"
+msgstr "Tyche: entradas recientes"
+
+#: inc/libraries/widgets/widget-tyche-products/view/layout-c.php:25
+#: inc/libraries/widgets/widget-tyche-products/view/layout-a.php:47
+#: inc/libraries/widgets/widget-tyche-products/view/layout-b.php:28
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:274
+msgid "Banner Button Label"
+msgstr "Etiqueta del botón del banner"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:270
+msgid "Banner Button Link"
+msgstr "Banner: URL del botón"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:266
+msgid "Banner Third Line"
+msgstr "Tercera línea del banner"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:262
+msgid "Banner Second Line"
+msgstr "Segunda línea del banner"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:258
+msgid "Banner First Line"
+msgstr "Primera línea del banner"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:253
+msgid "Remove Image"
+msgstr "Eliminar la imagen"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:252
+msgid "Choose Image"
+msgstr "Seleccionar la imagen"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:235
+msgid "Product list"
+msgstr "Lista de productos"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:232
+msgid "Products without banner"
+msgstr "Productos sin banner"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:229
+msgid "Products with banner on the right side"
+msgstr "Productos con banner en el lado derecho"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:226
+msgid "Products with banner on the left side"
+msgstr "Productos con banner en el lado izquierdo"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:211
+msgid "Layout (banner position left/right/no banner/list)"
+msgstr "Diseño (posición del banner a la izquierda, derecha, sin banner o lista)"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:197
+msgid "Show Product Rating"
+msgstr "Mostrar la valoración de los productos"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:190
+msgid "Orange"
+msgstr "Naranja"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:187
+msgid "Black"
+msgstr "Negro"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:184
+msgid "Light Blue"
+msgstr "Azul claro"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:181
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:178
+msgid "Green"
+msgstr "Verde"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:175
+msgid "Beige"
+msgstr "Beige"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:172
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:168
+msgid "Color"
+msgstr "Color"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:156
+msgid "&ndash; Select a category &ndash;"
+msgstr "&ndash; Seleccionar una categoría &ndash;"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:153
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:132
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:147
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:147
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:205
+msgid "No"
+msgstr "No"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:129
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:144
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:144
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:202
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:124
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:141
+msgid "Show Title"
+msgstr "Mostrar el título"
+
+#: inc/libraries/widgets/widget-tyche-recent-posts/class-widget-tyche-recent-posts.php:117
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:136
+msgid "Title"
+msgstr "﻿Título"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:34
+msgid "Displays your products in the frontend through different layouts!"
+msgstr "¡Muestra tus productos en la portada con diferentes diseños!"
+
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:32
+msgid "Tyche Products"
+msgstr "Tyche: productos"
+
+#: inc/libraries/widgets/widget-tyche-contact/view/default.php:22
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: inc/libraries/widgets/widget-tyche-contact/view/default.php:28
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:109
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:105
+msgid "Phone number:"
+msgstr "Número de teléfono:"
+
+#: inc/libraries/widgets/widget-tyche-contact/view/default.php:16
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:101
+msgid "Address:"
+msgstr "Dirección:"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:97
+msgid "Contact section title:"
+msgstr "Título de la sección de contacto:"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:48
+msgid "mail@tyche.com"
+msgstr "correo@ejemplo.com"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:47
+msgid "(123) 456-7890"
+msgstr "(212) 123-4567"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:46
+msgid "123 Street Name, City, England."
+msgstr "Calle Mayor, 123, Zaragoza, España."
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:45
+msgid "Contact"
+msgstr "Contacto"
+
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:29
+#: inc/libraries/widgets/widget-tyche-contact/class-widget-tyche-contact.php:31
+msgid "Tyche Companion Contact Widget"
+msgstr "Widget de contacto Tyche Companion"
+
+#: inc/libraries/welcome-screen/sections/support.php:28
+msgid "See changelog"
+msgstr "Ver el registro de cambios"
+
+#: inc/libraries/welcome-screen/sections/support.php:25
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "¿Quieres informarte de los últimos cambios en el tema? Simplemente consulta nuestro registro de cambios a continuación para hacerte una idea de las recientes correcciones y características implementadas."
+
+#: inc/libraries/welcome-screen/sections/support.php:23
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/libraries/welcome-screen/sections/support.php:18
+msgid "See our full documentation"
+msgstr "Ver nuestra documentación completa"
+
+#: inc/libraries/welcome-screen/sections/support.php:15
+msgid "This is the place to go to reference different aspects of the theme. Our online documentation is an incredible resource for learning the ins and outs of using Tyche."
+msgstr "Este es el lugar de referencia al que ir sobre los diferentes aspectos del tema. Nuestra documentación online es un recurso increíble para aprender los entresijos del uso de Tyche."
+
+#: inc/libraries/welcome-screen/sections/support.php:6
+msgid "We offer excellent support through our advanced ticketing system. Make sure to register your purchase before contacting support!"
+msgstr "Ofrecemos un excelente soporte a través de nuestro avanzado sistema de tiques. ¡Asegúrate de registrar tu compra antes de contactar con el soporte!"
+
+#: inc/libraries/welcome-screen/sections/support.php:4
+#: inc/libraries/welcome-screen/sections/support.php:8
+msgid "Contact Support"
+msgstr "Contactar con el soporte"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:29
+msgid "Version:"
+msgstr "Versión:"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:36
+msgid "Go to Customizer"
+msgstr "Ir al personalizador"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:34
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Usando el personalizador de WordPress puedes personalizar fácilmente cada aspecto del tema."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:33
+msgid "Step 3 - Customize everything"
+msgstr "Paso 3: personalizar todo"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:28
+msgid "Full documentation"
+msgstr "Documentación completa"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:26
+msgid "Even if you're a long-time WordPress user, we still believe you should give our documentation a very quick Read."
+msgstr "Incluso si eres usuario de WordPress desde hace mucho tiempo, seguimos creyendo que deberías echar un vistazo rápido a nuestra documentación."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:25
+msgid "Step 2 - Check our documentation"
+msgstr "Paso 2: consultar nuestra documentación"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:19
+msgid "Check recommended actions"
+msgstr "Revisar las acciones recomendadas"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr "No hay acciones recomendadas pendientes de realizar"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:12
+msgid "We've compiled a list of steps for you, to take make sure the experience you'll have using one of our products is very easy to follow."
+msgstr "Hemos recopilado una lista de pasos para ti, para asegurar que la experiencia que tendrás usando uno de nuestros productos sea muy sencilla de seguir."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:11
+msgid "Step 1 - Implement recommended actions"
+msgstr "Paso 1: implementar las acciones recomendadas"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:538
+msgid "Deactivate now"
+msgstr "Desactivar ahora"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:532
+msgid "Activate now"
+msgstr "Activar ahora"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:470
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:458
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:452
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#. Translators: Welcome Screen Description.
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:383
+msgid "%1$s is now installed and ready to use! Get ready to build something beautiful. We hope you enjoy it! We want to make sure you have the best experience using %1$s and that is why we gathered here all the necessary information for you. We hope you will enjoy using %1$s, as much as we enjoy creating great products."
+msgstr "¡%1$s ahora está instalado y listo para usar! Prepárate para construir algo hermoso. ¡Esperamos que lo disfrutes! Queremos asegurarnos de que tengas la mejor experiencia usando %1$s y es por eso por lo que hemos reunido aquí toda la información necesaria para ti. Esperamos que disfrutes usando %1$s, tanto como nosotros disfrutamos creando grandes productos."
+
+#. Translators: Welcome Screen Title.
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:377
+msgid "Welcome to %1$s - v"
+msgstr "Bienvenido a %1$s - v"
+
+#. Translators: Menu Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:340
+msgid "About %1$s"
+msgstr "Acerca de %1$s"
+
+#. Translators: Notice URL
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:321
+msgid "Get started with %1$s"
+msgstr "Primeros pasos con %1$s"
+
+#. Translators: Notice
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:314
+msgid "Welcome! Thank you for choosing %3$s! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "¡Bienvenido! ¡Gracias por elegir %3$s!  Para aprovechar al máximo lo mejor que nuestro tema puede ofrecer, por favor, asegúrate de visitar nuestra %1$spágina de bienvenida%2$s."
+
+#. Translators: Notice Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:310
+msgid "Welcome to %1$s"
+msgstr "Bienvenido a %1$s"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:266
+#: inc/libraries/welcome-screen/sections/recommended-actions.php:73
+msgid "Hooray! There are no required actions for you right now."
+msgstr "¡Bravo! En este momento no es necesaria ninguna acción por tu parte."
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:188
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:256
+msgid "Class does not exist"
+msgstr "La clase no existe"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:152
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:177
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:238
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:274
+msgid "Not allowed"
+msgstr "No permitido"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:287
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:354
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:115
+msgid "Review this theme on w.org"
+msgstr "Valorar este tema en WordPress.org"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:113
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:111
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/libraries/class-tyche-sidebars.php:166
+msgid "Footer Sidebar #4"
+msgstr "Barra lateral #4 del pie de página"
+
+#: inc/libraries/class-tyche-sidebars.php:158
+msgid "Footer Sidebar #3"
+msgstr "Barra lateral #3 del pie de página"
+
+#: inc/libraries/class-tyche-sidebars.php:149
+msgid "Footer Sidebar #2"
+msgstr "Barra lateral #2 del pie de página"
+
+#: inc/libraries/class-tyche-sidebars.php:140
+msgid "Footer Sidebar #1"
+msgstr "Barra lateral #1 del pie de página"
+
+#: inc/libraries/class-tyche-sidebars.php:131
+msgid "The sidebar is displayed on WooComerce pages."
+msgstr "La barra lateral se muestra en las páginas de WooCommerce."
+
+#: inc/libraries/class-tyche-sidebars.php:130
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la tienda"
+
+#: inc/libraries/class-tyche-sidebars.php:110
+msgid "Content Widget Area #4 B"
+msgstr "Contenido del área de widgets #4 B"
+
+#: inc/libraries/class-tyche-sidebars.php:100
+msgid "Content Widget Area #4 A"
+msgstr "Contenido del área de widgets #4 A"
+
+#: inc/libraries/class-tyche-sidebars.php:80
+msgid "Content Widget Area #2 C"
+msgstr "Contenido del área de widgets #2 C"
+
+#: inc/libraries/class-tyche-sidebars.php:70
+msgid "Content Widget Area #2 B"
+msgstr "Contenido del área de widgets #2 B"
+
+#: inc/libraries/class-tyche-sidebars.php:61
+#: inc/libraries/class-tyche-sidebars.php:71
+#: inc/libraries/class-tyche-sidebars.php:81
+#: inc/libraries/class-tyche-sidebars.php:101
+#: inc/libraries/class-tyche-sidebars.php:111
+msgid "Part of the 'building blocks' of the frontpage. Sidebar served as a column in the content"
+msgstr "Parte de los «bloques de maquetación» de la página de inicio. La barra lateral se sirve como una columna en el contenido"
+
+#: inc/libraries/class-tyche-sidebars.php:60
+msgid "Content Widget Area #2 A"
+msgstr "Contenido del área de widgets #2 A"
+
+#: inc/libraries/class-tyche-sidebars.php:51
+#: inc/libraries/class-tyche-sidebars.php:91
+#: inc/libraries/class-tyche-sidebars.php:121
+msgid "Part of the 'building blocks' of the frontpage. It's a full width section"
+msgstr "Parte de los «bloques de maquetación» de la página de inicio. Es una sección de ancho completo"
+
+#: inc/libraries/class-tyche-sidebars.php:41
+msgid "The default sidebar of the website."
+msgstr "La barra lateral por defecto de la web."
+
+#: inc/libraries/class-tyche-sidebars.php:40
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: inc/libraries/class-tyche-notify-system.php:222
+msgid "Please activate the WordPress Widget Importer to create the demo content."
+msgstr "Por favor, activa el widget del importador de WordPress para crear el contenido de demostración."
+
+#: inc/libraries/class-tyche-notify-system.php:217
+#: inc/libraries/class-tyche-notify-system.php:225
+msgid "Please install the WordPress widget importer to create the demo content"
+msgstr "Por favor, instala el widget del importador de WordPress para crear el contenido de demostración"
+
+#: inc/libraries/class-tyche-notify-system.php:205
+msgid "Please activate the WordPress Importer to create the demo content."
+msgstr "Por favor, activa el importador de WordPress para crear el contenido de demostración."
+
+#: inc/libraries/class-tyche-notify-system.php:200
+#: inc/libraries/class-tyche-notify-system.php:208
+msgid "Please install the WordPress Importer to create the demo content."
+msgstr "Por favor, instala el importador de WordPress para crear el contenido de demostración."
+
+#: inc/libraries/class-tyche-notify-system.php:188
+msgid "Activate: WordPress Importer"
+msgstr "Activar: Importador de WordPress"
+
+#: inc/libraries/class-tyche-notify-system.php:183
+#: inc/libraries/class-tyche-notify-system.php:191
+msgid "Install: WordPress Importer"
+msgstr "Instalar: Importador de WordPress"
+
+#: inc/libraries/class-tyche-notify-system.php:171
+msgid "Activate: Widget Importer Exporter Plugin"
+msgstr "Activar: Widget del plugin importador y exportador"
+
+#: inc/libraries/class-tyche-notify-system.php:166
+#: inc/libraries/class-tyche-notify-system.php:174
+msgid "Install: Widget Importer Exporter Plugin"
+msgstr "Instalar: Widget del plugin importador y exportador"
+
+#: inc/libraries/class-tyche-navwalker.php:201
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/libraries/class-tyche-breadcrumbs.php:96
+msgid "Home "
+msgstr "Inicio "
+
+#: inc/libraries/class-tyche-breadcrumbs.php:80
+msgid "404 - Page not Found"
+msgstr "404 - Página no encontrada"
+
+#: inc/libraries/class-tyche-breadcrumbs.php:79
+msgid "Search:"
+msgstr "Buscar:"
+
+#: inc/libraries/class-tyche-breadcrumbs.php:78
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+#: inc/libraries/class-tyche-breadcrumbs.php:77
+#: inc/libraries/class-tyche-navwalker.php:231
+msgid "Home"
+msgstr "Inicio"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libraries/class-tgm-plugin-activation.php:3611
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libraries/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:3608
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/libraries/class-tgm-plugin-activation.php:3606
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libraries/class-tgm-plugin-activation.php:3603
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libraries/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:3600
+#: inc/libraries/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:3600
+#: inc/libraries/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:3600
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/libraries/class-tgm-plugin-activation.php:3598
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:3594
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/libraries/class-tgm-plugin-activation.php:3592
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libraries/class-tgm-plugin-activation.php:3589
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/libraries/class-tgm-plugin-activation.php:3242
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: inc/libraries/class-tgm-plugin-activation.php:3012
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2986
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2879
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2877
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2836
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2834
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2803
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:279
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:346
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2800
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:283
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:350
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:511
+#: inc/libraries/class-tgm-plugin-activation.php:2794
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:275
+#: inc/libraries/epsilon-framework/sections/class-epsilon-section-recommended-actions.php:342
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2761
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libraries/class-tgm-plugin-activation.php:2689
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libraries/class-tgm-plugin-activation.php:2683
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/libraries/class-tgm-plugin-activation.php:2678
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2628
+msgid "Status"
+msgstr "Estado"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2627
+msgid "Version"
+msgstr "Versión"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2623
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2622
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2621
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2607
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/libraries/class-tgm-plugin-activation.php:2584
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2572
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2564
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2556
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/libraries/class-tgm-plugin-activation.php:2470
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libraries/class-tgm-plugin-activation.php:2466
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libraries/class-tgm-plugin-activation.php:2462
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/libraries/class-tgm-plugin-activation.php:2458
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/libraries/class-tgm-plugin-activation.php:2411
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2402
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2399
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2396
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2390
+msgid "Active"
+msgstr "Activo"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2388
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2384
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2366
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2363
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2360
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:25
+#: inc/libraries/class-tgm-plugin-activation.php:2343
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/libraries/class-tgm-plugin-activation.php:2340
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/libraries/class-tgm-plugin-activation.php:2041
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/libraries/class-tgm-plugin-activation.php:1150
+#: inc/libraries/class-tgm-plugin-activation.php:3026
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/libraries/class-tgm-plugin-activation.php:961
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: inc/libraries/class-tgm-plugin-activation.php:953
+#: inc/libraries/class-tgm-plugin-activation.php:961
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/libraries/class-tgm-plugin-activation.php:953
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: inc/libraries/class-tgm-plugin-activation.php:536
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/libraries/class-tgm-plugin-activation.php:535
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: inc/libraries/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/libraries/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/libraries/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/libraries/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: inc/libraries/class-tgm-plugin-activation.php:388
+#: inc/libraries/class-tgm-plugin-activation.php:3030
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/libraries/class-tgm-plugin-activation.php:387
+#: inc/libraries/class-tgm-plugin-activation.php:3243
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: inc/libraries/class-tgm-plugin-activation.php:386
+#: inc/libraries/class-tgm-plugin-activation.php:844
+#: inc/libraries/class-tgm-plugin-activation.php:2607
+#: inc/libraries/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/libraries/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/libraries/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/libraries/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/libraries/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/libraries/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/libraries/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/libraries/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/libraries/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/libraries/class-kirki-installer-section.php:47
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#: inc/libraries/class-kirki-installer-section.php:44
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: inc/libraries/class-kirki-installer-section.php:43
+#: inc/libraries/class-kirki-installer-section.php:46
+msgid "Kirki Toolkit plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Se necesita el plugin Kirki Toolkit para aprovechar las características de este tema en el personalizador."
+
+#: inc/helpers/class-tyche-helper.php:285
+msgid "TAGS: "
+msgstr "ETIQUETAS: "
+
+#: inc/helpers/class-tyche-helper.php:283
+msgid " / "
+msgstr " / "
+
+#: inc/helpers/class-tyche-helper.php:270
+msgid " Comments"
+msgstr " comentarios"
+
+#: inc/helpers/class-tyche-helper.php:269
+msgid "By"
+msgstr "Por"
+
+#: inc/customizer/theme-options/sections.php:48
+msgid "Slider Section Info"
+msgstr "Información de la sección del carrusel"
+
+#: inc/customizer/theme-options/sections.php:42
+msgid "Slider Section Images"
+msgstr "Imágenes de la sección del carrusel"
+
+#: inc/customizer/theme-options/sections.php:36
+msgid "Frontpage Section Ordering and Visibility"
+msgstr "Orden y visibilidad de las secciones de la página de inicio"
+
+#: inc/customizer/theme-options/sections.php:29
+msgid "Contact Page"
+msgstr "Página de contacto"
+
+#: inc/customizer/theme-options/sections.php:22
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/theme-options/sections.php:9
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/theme-options/regular-sections.php:45
+#: inc/libraries/welcome-screen/sections/support.php:13
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer/theme-options/regular-sections.php:25
+msgid "Recomended Plugins :"
+msgstr "Plugins recomendados:"
+
+#: inc/customizer/theme-options/regular-sections.php:24
+msgid "We are social :"
+msgstr "Somos sociales:"
+
+#: inc/customizer/theme-options/regular-sections.php:23
+msgid "Recomended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customizer/theme-options/panels.php:20
+msgid "Front Page Sections"
+msgstr "Secciones de la portada"
+
+#: inc/customizer/theme-options/panels.php:15
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/theme-options/panels.php:10
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: inc/customizer/theme-options/options.php:531
+msgid "Info Section #3 Icon"
+msgstr "Icono de la sección de información #3"
+
+#: inc/customizer/theme-options/options.php:523
+msgid "Info Section #3 Subtext"
+msgstr "Subtexto de la sección de información #3"
+
+#: inc/customizer/theme-options/options.php:505
+msgid "Info Section #2 Icon"
+msgstr "Icono de la sección de información #2"
+
+#: inc/customizer/theme-options/options.php:497
+msgid "Info Section #2 Subtext"
+msgstr "Subtexto de la sección de información #2"
+
+#: inc/customizer/theme-options/options.php:488
+msgid "Info Section #2 Text"
+msgstr "Texto de la sección de información #2"
+
+#: inc/customizer/theme-options/options.php:479
+msgid "Info Section #1 Icon"
+msgstr "Icono de la sección de información #1"
+
+#: inc/customizer/theme-options/options.php:471
+msgid "Info Section #1 Subtext"
+msgstr "Subtexto de la sección de información #1"
+
+#: inc/customizer/theme-options/options.php:462
+msgid "Info Section #1 Text"
+msgstr "Texto de la sección de información #1"
+
+#: inc/customizer/theme-options/options.php:449
+msgid "Button #2 URL"
+msgstr "URL del botón #2"
+
+#: inc/customizer/theme-options/options.php:444
+msgid "Button #2 Text"
+msgstr "Texto del botón #2"
+
+#: inc/customizer/theme-options/options.php:439
+msgid "Button #1 URL"
+msgstr "URL del botón #1"
+
+#: inc/customizer/theme-options/options.php:434
+msgid "Button #1 Text"
+msgstr "Texto del botón #1"
+
+#: inc/customizer/theme-options/options.php:429
+msgid "CTA Subtext"
+msgstr "Subtexto de la llamada a la acción"
+
+#: inc/customizer/theme-options/options.php:424
+msgid "CTA Text"
+msgstr "Texto de la llamada a la acción"
+
+#: inc/customizer/theme-options/options.php:404
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/theme-options/options.php:398
+msgid "Slider Backgrounds %s"
+msgstr "Fondos del carrusel %s"
+
+#: inc/customizer/theme-options/options.php:359
+msgid "Align Right"
+msgstr "Alinear a la derecha"
+
+#: inc/customizer/theme-options/options.php:358
+msgid "Align Center"
+msgstr "Alinear al centro"
+
+#: inc/customizer/theme-options/options.php:357
+msgid "Align Left"
+msgstr "Alinear a la izquierda"
+
+#: inc/customizer/theme-options/options.php:345
+#: inc/libraries/class-tyche-sidebars.php:120
+msgid "Content Widget Area #5"
+msgstr "Contenido del área de widgets #5"
+
+#: inc/customizer/theme-options/options.php:344
+msgid "Content Widget Area #4"
+msgstr "Contenido del área de widgets #4"
+
+#: inc/customizer/theme-options/options.php:343
+#: inc/libraries/class-tyche-sidebars.php:90
+msgid "Content Widget Area #3"
+msgstr "Contenido del área de widgets #3"
+
+#: inc/customizer/theme-options/options.php:342
+msgid "Content Widget Area #2"
+msgstr "Contenido del área de widgets #2"
+
+#: inc/customizer/theme-options/options.php:341
+#: inc/libraries/class-tyche-sidebars.php:50
+msgid "Content Widget Area #1"
+msgstr "Contenido del área de widgets #1"
+
+#: inc/customizer/theme-options/options.php:329
+msgid "Enable / Disable sections"
+msgstr "Activar o desactivar secciones"
+
+#: inc/customizer/theme-options/options.php:321
+msgid "Enable Front Page Slider"
+msgstr "Activar el carrusel de la página de inicio"
+
+#: inc/customizer/theme-options/options.php:301
+msgid "Copyright Contents"
+msgstr "Contenido del copyright"
+
+#: inc/customizer/theme-options/options.php:292
+msgid "Enable Copyright"
+msgstr "Activar el copyright"
+
+#: inc/customizer/theme-options/options.php:284
+msgid "4 Column"
+msgstr "4 columnas"
+
+#: inc/customizer/theme-options/options.php:283
+msgid "3 Column"
+msgstr "3 columnas"
+
+#: inc/customizer/theme-options/options.php:282
+msgid "2 Column"
+msgstr "2 columnas"
+
+#: inc/customizer/theme-options/options.php:281
+msgid "1 Column"
+msgstr "1 columna"
+
+#: inc/customizer/theme-options/options.php:276
+#: inc/customizer/theme-options/options.php:352
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer/theme-options/options.php:255
+msgid "Add the code you retrieved from your AdSense account. Insert only the <ins> tag."
+msgstr "Añade el código que has obtenido de tu cuenta de AdSense. Solo inserta la etiqueta <ins>."
+
+#: inc/customizer/theme-options/options.php:254
+msgid "AdSense Code"
+msgstr "Código de AdSense"
+
+#: inc/customizer/theme-options/options.php:237
+msgid "Banner URL"
+msgstr "URL del banner"
+
+#: inc/customizer/theme-options/options.php:221
+#: inc/libraries/widgets/widget-tyche-products/class-widget-tyche-products.php:244
+msgid "Banner Image"
+msgstr "Imagen del banner"
+
+#: inc/customizer/theme-options/options.php:214
+msgid "AdSense"
+msgstr "AdSense"
+
+#: inc/customizer/theme-options/options.php:213
+#: inc/customizer/theme-options/options.php:419
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/theme-options/options.php:208
+msgid "Banner Type"
+msgstr "Tipo de banner"
+
+#: inc/customizer/theme-options/options.php:199
+msgid "Enable Banner in Header"
+msgstr "Activar el banner en la cabecera"
+
+#: inc/customizer/theme-options/options.php:189
+msgid "Google Map Shortcode"
+msgstr "Shortcode de Google Map"
+
+#: inc/customizer/theme-options/options.php:179
+msgid "Contact Form Shortcode"
+msgstr "Shortcode del formulario de contacto"
+
+#: inc/customizer/theme-options/options.php:170
+msgid "Contact Address"
+msgstr "Dirección de contacto"
+
+#: inc/customizer/theme-options/options.php:161
+msgid "Contact Phone"
+msgstr "Teléfono de contacto"
+
+#: inc/customizer/theme-options/options.php:96
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/theme-options/options.php:95
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/theme-options/options.php:94
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/theme-options/options.php:89
+msgid "Shop Layout"
+msgstr "Diseño de la tienda"
+
+#: inc/customizer/theme-options/options.php:80
+msgid "Enable Breadcrumbs"
+msgstr "Activar las migas de pan"
+
+#: inc/customizer/theme-options/options.php:71
+msgid "Enable Header Top Bar"
+msgstr "Activar la barra superior de la cabecera"
+
+#: inc/customizer/theme-options/options.php:22
+msgid "Color Scheme"
+msgstr "Esquema de color"
+
+#: inc/customizer/theme-options/options.php:16
+msgid "You can enter custom markup in this control and use it however you want"
+msgstr "Puedes introducir un marcado personalizado en este control y usarlo como quieras"
+
+#: inc/customizer/theme-options/options.php:13
+msgid "Front Page Settings"
+msgstr "Ajustes de la página de inicio"
+
+#: inc/class-tyche.php:294
+msgid "Copyright Social"
+msgstr "Copyright y menú social"
+
+#: inc/class-tyche.php:293
+msgid "Primary"
+msgstr "Principal"
+
+#: inc/class-tyche.php:165
+msgid "Set automatically"
+msgstr "Establecer automáticamente"
+
+#: inc/class-tyche.php:165
+msgid "Set manually"
+msgstr "Establecer manualmente"
+
+#: inc/class-tyche.php:164
+msgid "If you just installed Tyche, and are not able to see the front - page demo, you need to go to Settings -> Reading , Front page displays and select \"Static Page\" . "
+msgstr "Si acabas de instalar Tyche y no puedes ver la demostración de la página de inicio, tienes que ir a «Ajustes -> Lectura -> Tu página de inicio muestra» y seleccionar «Una página estática». "
+
+#: inc/class-tyche.php:163
+msgid "Set front page to static"
+msgstr "Establecer la página de inicio como estática"
+
+#: inc/class-tyche.php:158
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/class-tyche.php:158
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/class-tyche.php:157
+msgid "Head over to our website and download the sample content data."
+msgstr "Dirígete a nuestra web y descarga los datos del contenido de muestra."
+
+#: inc/class-tyche.php:156
+msgid "Download theme sample data"
+msgstr "Descargar los datos de muestra del tema"
+
+#: inc/class-tyche.php:136
+msgid "To fully take advantage of the Tyche theme, please install the recommended plugins"
+msgstr "Para aprovechar al máximo el tema Tyche, por favor, instala los plugins recomendados"
+
+#: inc/class-tyche.php:135
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:464
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: footer.php:57 inc/customizer/theme-options/options.php:309
+msgid "Theme: Tyche"
+msgstr "Tema: Tyche"
+
+#: footer.php:55 inc/customizer/theme-options/options.php:307
+msgid "Y"
+msgstr "Y"
+
+#. Translators: 1 is current year, 2 is separator, 3 is theme link.
+#: footer.php:53 inc/customizer/theme-options/options.php:305
+msgid "Copyright &copy; %1$s %2$s %3$s %2$s Powered by WordPress."
+msgstr "Copyright &copy; %1$s %2$s %3$s %2$s Funciona con WordPress."
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:54 comments.php:77
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: comments.php:53 comments.php:76
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:50 comments.php:73
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#: index.php:59 archive.php:59 front-page.php:68
+#: inc/libraries/class-tyche-woocommerce-hooks.php:253
+msgid "NEXT"
+msgstr "SIGUIENTE"
+
+#: index.php:58 archive.php:58 front-page.php:67
+#: inc/libraries/class-tyche-woocommerce-hooks.php:212
+msgid "PREV"
+msgstr "ANTERIOR"
+
+#. translators: %1$s: smiley
+#: 404.php:36
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://colorlib.com/"
+msgstr "https://colorlib.com/"
+
+#. Author of the theme
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#. Theme URI of the theme
+msgid "https://colorlib.com/wp/themes/tyche/"
+msgstr "https://colorlib.com/wp/themes/tyche/"
